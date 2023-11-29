@@ -14,10 +14,14 @@ TeamMVVM (C#, .NET, MVVM, WPF) app allowing storing team players data to txt and
 
 
 ## Screenshots
+
 Main window of the app
+
 ![Main window](Players/Resources/img/main.jpg)
 
+
 Adding player window
+
 ![Adding new player window](Players/Resources/img/adding.jpg)
 
 
