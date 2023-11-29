@@ -1,0 +1,5 @@
+Rollero ; Jan Kowalski ; 20 ; 90,2 
+Gandalf0271 ; Karol Kowalski ; 24 ; 71,1 
+Kaneki_Yamori ; Marek Kowalski ; 22 ; 67,3 
+Puzzle_Express ; Grzegorz Kowalski ; 23 ; 47 
+Truzky ; Piotr Kowalski ; 21 ; 80

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPlayerViewModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PlayerViewModel>
+    <Nick>Rollero</Nick>
+    <Name>Jan Kowalski</Name>
+    <WinRatio>90.2</WinRatio>
+    <Age>20</Age>
+    <Description>Rollero Jan Kowalski, age: 20, WR: 90,2</Description>
+  </PlayerViewModel>
+  <PlayerViewModel>
+    <Nick>Gandalf0271</Nick>
+    <Name>Karol Kowalski</Name>
+    <WinRatio>71.1</WinRatio>
+    <Age>24</Age>
+    <Description>Gandalf0271 Karol Kowalski, age: 24, WR: 71,1</Description>
+  </PlayerViewModel>
+  <PlayerViewModel>
+    <Nick>Kaneki_Yamori</Nick>
+    <Name>Marek Kowalski</Name>
+    <WinRatio>67.3</WinRatio>
+    <Age>22</Age>
+    <Description>Kaneki_Yamori Marek Kowalski, age: 22, WR: 67,3</Description>
+  </PlayerViewModel>
+  <PlayerViewModel>
+    <Nick>Puzzle_Express</Nick>
+    <Name>Grzegorz Kowalski</Name>
+    <WinRatio>47</WinRatio>
+    <Age>23</Age>
+    <Description>Puzzle_Express Grzegorz Kowalski, age: 23, WR: 47</Description>
+  </PlayerViewModel>
+  <PlayerViewModel>
+    <Nick>Truzky</Nick>
+    <Name>Piotr Kowalski</Name>
+    <WinRatio>80</WinRatio>
+    <Age>21</Age>
+    <Description>Truzky Piotr Kowalski, age: 21, WR: 80</Description>
+  </PlayerViewModel>
+</ArrayOfPlayerViewModel>
